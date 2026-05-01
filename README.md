@@ -1,8 +1,8 @@
 # 🦇 Whack-a-Bat
 
-A custom PaperMC Minecraft plugin built for a multiplayer party server. Players compete to whack as many bats as possible before time runs out — but watch out, bats split into two when killed, and you can stun other players by hitting them with your bat whacker.
+A custom PaperMC Minecraft plugin built for a multiplayer party server. Players compete to whack as many bats as possible before time runs out! Watch out! bats multiply, and you can stun other players by hitting them with your bat whacker :)
 
-Built in Java for a 22nd birthday party. First Minecraft plugin ever written. 🎂
+First Minecraft plugin! Written in Java
 
 ---
 
