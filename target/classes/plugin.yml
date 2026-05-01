@@ -1,0 +1,8 @@
+name: WhackABat
+version: 1.0
+main: com.kbparty.WhackABat
+api-version: "1.21"
+commands:
+  whackabat:
+    description: Start a Whack-a-Bat game
+    usage: /whackabat
