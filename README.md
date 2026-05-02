@@ -1,6 +1,6 @@
 # 🦇 Whack-a-Bat
 
-A custom PaperMC Minecraft plugin built for a multiplayer party server. Players compete to whack as many bats as possible before time runs out! Watch out! bats multiply, and you can stun other players by hitting them with your bat whacker :)
+A custom PaperMC Minecraft plugin built for a multiplayer server. Players compete to whack as many bats as possible before time runs out! Watch out! bats multiply, and you can stun other players by hitting them with your bat batter
 
 First Minecraft plugin! Written in Java
 
@@ -57,7 +57,7 @@ The game ends automatically after 60 seconds, or you can end it early:
 ```
 /whackabat stop
 ```
-Final scores are broadcast to all players with 🥇🥈🥉 medals.
+Final scores are broadcast to all players with gold, silver,and bronze medals
 
 ### Check scores mid-game
 ```
